@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Convoy extends ArrayList<Integer>{
+public class Convoy extends Obj_List{
 
     boolean assigned;
     double startTime, endTime;

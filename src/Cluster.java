@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Cluster extends ArrayList<Integer> {
+public class Cluster extends Obj_List {
 
     int cluster_id;
 
