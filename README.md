@@ -87,7 +87,7 @@
 
 ##4. Sample Dataset
 
-- 데이터 다운로드: [dataset.csv](https://www.dropbox.com/s/pw8fvmmetajvqnl/dataset.csv?dl=0), [dataset.txt](https://www.dropbox.com/s/hjfa2sc7wn8ryz9/dataset.txt?dl=0) 
+- 데이터 다운로드: [dataset.csv](https://github.com/ws-choi/CMC_assignment_JAVA/raw/master/resource/data.csv), 
 	- Moving Object가 1초부터 20초동안 움직인 좌표를 매초 기록한 궤적 데이터
 	- 가시화 된 데이터 셋
 
