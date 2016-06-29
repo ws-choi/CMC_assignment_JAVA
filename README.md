@@ -64,7 +64,7 @@
 
 ### Outline
 
-![code_cmc.png](http://wiki.dataknow.net/img/ws_code_cmc.png)
+![code_cmc.png](https://wiki.dataknow.net/img/ws_code_cmc.png)
 
 ### Implemented code
 
@@ -91,7 +91,7 @@
 	- Moving Object가 1초부터 20초동안 움직인 좌표를 매초 기록한 궤적 데이터
 	- 가시화 된 데이터 셋
 
-![Dataset.PNG](http://wiki.dataknow.net/img/Dataset.PNG)
+![Dataset.PNG](https://wiki.dataknow.net/img/Dataset.PNG)
 
 
 
