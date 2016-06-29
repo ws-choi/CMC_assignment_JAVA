@@ -94,7 +94,6 @@
 ![Dataset.PNG](http://wiki.dataknow.net/img/Dataset.PNG)
 
 
-
 - 데이터 형식: [CSV(Comma-separated values)]( https://en.wikipedia.org/wiki/Comma-separated_values )
 	- Column 설명
 		- obj_id: moving object의 아이디
